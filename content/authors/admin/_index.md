@@ -88,7 +88,7 @@ work:
     company_name: IMEC the Netherlands
     company_url: 'https://www.imec-int.com/en'
     icon: ''
-    date_start: 2024
+    date_start: 2025-01-01
     date_end: ''
     summary: |
       ➤ Conducting research on software-hardware co-design for neuromorphic and unconventional computing architectures
