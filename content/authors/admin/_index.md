@@ -25,8 +25,6 @@ highlight_name: true
 # Role/position/tagline
 role: Research Scientist
 
-avatar: scholar.jpg
-
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: IMEC the Netherlands
