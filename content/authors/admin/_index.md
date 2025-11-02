@@ -54,7 +54,7 @@ interests:
   - Neuromorphic Computing
 
 education:
-  - area: PhD Computer Science (AI Focus)
+  - area: PhD Computer Science 
     institution: University of Groningen, Netherlands
     icon: ""
     #date_start: 2015-09-01
