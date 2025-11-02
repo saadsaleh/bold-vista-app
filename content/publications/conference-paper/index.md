@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'The Future is Analog: Energy-Efficient Cognitive Network Functions over Memristor-Based Analog Computations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
