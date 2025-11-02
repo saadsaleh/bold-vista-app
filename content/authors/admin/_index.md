@@ -92,8 +92,11 @@ work:
     date_end: ''
     summary: |
       ➤ Conducting research on software-hardware co-design for neuromorphic and unconventional computing architectures
+    
       ➤ Designing algorithms and custom architectures for imec's next-generation, energy-efficient chips
+    
       ➤ Leading and managing multiple research projects under EU, MSCA, NWO, and internal funding, including RIGOLETTO, DISTRIMUSE, TIRAMISU, NEUROKIT, and customer collaborations
+    
       ➤ Supervising multiple Master’s and Doctoral candidates, providing mentorship and research training
     
   - position: Scientific Researcher
