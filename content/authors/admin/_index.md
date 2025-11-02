@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Saad Saleh
+title: Saad Saleh, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
