@@ -17,8 +17,8 @@ authors:
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *Proceedings of the 43rd International Conference on Computer Communications (INFOCOM)*
+publication_short: In *IEEE INFOCOM*
 
 abstract: | 
   Current network functions consume a significant amount of energy and lack the capacity to support more expressive learning models like neuromorphic functions. The major reason is the underlying transistor-based components that require continuous energy-intensive data movements between the storage and computational units. In this research, we propose the use of a novel component, called Memristor, which can colocalize computation and storage, and provide computational capabilities. Building on memristors, we propose the concept of match-compute processing for supporting energy efficient network functions. Considering the analog processing of memristors, we propose a Probabilistic Content Addressable Memory (pCAM) abstraction which can provide analog match functions. pCAM provides deterministic and probabilistic outputs depending upon the closeness of match of an incoming query with the specified network policy. pCAM uses a crossbar array for line rate matrix multiplications on the match outputs. We proposed a match-compute packet processing architecture and developed the programming abstractions for a baseline network function, i.e., Active Queue Management, which drops packets based upon the higher-order derivatives of sojourn times and buffer sizes. The analysis of match-compute processing over a physically fabricated memristor chip showed only 0.01 fJ/bit/cell of energy consumption, which is 50 times less than the traditional match-action processing.
