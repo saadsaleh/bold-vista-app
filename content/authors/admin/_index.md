@@ -77,7 +77,7 @@ education:
     institution: National University of Sciences and technology (NUST)
     icon: ""
     #date_start: 2009-09-01
-    date_end: Completed
+    #date_end: 2009-09-01
     #summary: |
     #  GPA: 3.9/4.0
 
