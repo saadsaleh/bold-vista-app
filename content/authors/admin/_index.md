@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Saad
-last_name: Saleh, PhD
+last_name: Saleh
 
 # Pronouns (optional)
 pronouns: he/him
