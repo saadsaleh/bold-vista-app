@@ -81,7 +81,7 @@ education:
     #summary: |
     #  GPA: 3.9/4.0
 
-     # Minored in Mathematics. President of AI Club.
+    # Minored in Mathematics. President of AI Club.
 
 work:
   - position: Research Scientist
@@ -91,10 +91,10 @@ work:
     date_start: 2024
     date_end: ''
     summary: |4-
-      ➤ Conducting research on software-hardware co-design for neuromorphic and unconventional computing architectures
-      ➤ Designing algorithms and custom architectures for imec's next-generation, energy-efficient chips    
-      ➤ Leading and managing multiple research projects under EU, MSCA, NWO, and internal funding, including RIGOLETTO, DISTRIMUSE, TIRAMISU, NEUROKIT, and customer collaborations    
-      ➤ Supervising multiple Master’s and Doctoral candidates, providing mentorship and research training
+    ➤ Conducting research on software-hardware co-design for neuromorphic and unconventional computing architectures
+    ➤ Designing algorithms and custom architectures for imec's next-generation, energy-efficient chips    
+    ➤ Leading and managing multiple research projects under EU, MSCA, NWO, and internal funding, including RIGOLETTO, DISTRIMUSE, TIRAMISU, NEUROKIT, and customer collaborations    
+    ➤ Supervising multiple Master’s and Doctoral candidates, providing mentorship and research training
     
   - position: Scientific Researcher
     company_name: CogniGron, University of Groningen
