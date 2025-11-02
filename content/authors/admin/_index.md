@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Saad Saleh
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Saad
+last_name: Saleh
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,35 +23,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: IMEC the Netherlands
+    url: https://www.imec-int.com/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:saadsaleh100@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/saadsaleh
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/saadsaleh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/saadsaleh/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=M3EUuHIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-4445-9548
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Algorithms
+  - Network Systems
+  - Computer Architectures
+  - Neuromorphic Computing
 
 education:
   - area: PhD Computer Science (AI Focus)
