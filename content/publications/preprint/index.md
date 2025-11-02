@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Analog In-Network Computing through Memristor-based Match-Compute Processing"
 authors:
 - admin
 - Anouk Goossens
 - Sunny Shu
 - Tamalika Banerjee
 - Boris Koldehofe
-date: "2019-04-07T00:00:00Z"
+# date: "2019-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
