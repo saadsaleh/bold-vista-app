@@ -92,7 +92,7 @@ work:
     date_end: ''
     summary: |
       ➤ Conducting research on software-hardware co-design for neuromorphic and unconventional computing architectures
-    
+      
       ➤ Designing algorithms and custom architectures for imec's next-generation, energy-efficient chips
     
       ➤ Leading and managing multiple research projects under EU, MSCA, NWO, and internal funding, including RIGOLETTO, DISTRIMUSE, TIRAMISU, NEUROKIT, and customer collaborations
@@ -107,7 +107,9 @@ work:
     date_end: 2024-12-31
     summary: |
       ➤ Conducted research in neuromorphic computing, developing algorithms and exploring emerging hardware technologies such as memristors
+    
       ➤ Investigated the co-design of computational models and novel device architectures for energy-efficient systems
+    
       ➤ Supervised Bachelor’s and Master’s students on thesis and course projects related to cognitive and unconventional computing
 
 
