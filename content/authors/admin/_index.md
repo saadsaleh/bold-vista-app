@@ -133,7 +133,7 @@ skills:
       - name: Visiting historical sites
         description: ''
         percent: 90
-        icon: 
+        icon: person-simple-walk
       - name: Hiking in the mountains
         description: ''
         percent: 70
